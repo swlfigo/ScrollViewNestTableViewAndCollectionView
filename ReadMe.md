@@ -13,6 +13,10 @@
 
 ![scrollViewNormalHeader](http://okslxr2o0.bkt.clouddn.com/scrollViewNormalHeader.gif)
 
+
+(PS.图床上传GIF有问题，经常出现卡死问题,直接运行DEMO比较直观)
+
+
 ## 更多解释思路文章请点击下面传送门访问博客查看
 
 [Blog传送门](http://isylar.com/2018/02/26/ScrollViewNestTableViewAndCollectionView/)
